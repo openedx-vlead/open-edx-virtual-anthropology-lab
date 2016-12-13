@@ -1,0 +1,100 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1) How old is ceramics history in old and new world respectively?&lt;&lt;&#10;(x) 12,000 years ago in the Old World and about 5,000 years ago in the New World&#10;( ) 10,000 years ago in the Old World and about 7,000 years ago in the New World&#10;( ) 8,000 years ago in the Old World and about 5,000 years ago in the New World&#10;( ) 11,000 years ago in the Old World and about 4,000 years ago in the New World&#10;&#10;&gt;&gt;2) Can we examine the question of social inequality by analyzing pottery ?&lt;&lt;&#10;(x) Yes&#10;( ) No&#10;&#10;&gt;&gt;3) What is Estimated Vessel Equivalents ?&lt;&lt;&#10;( ) number of pieces identified as the same&#10;( ) total weight of pieces identified as the same&#10;(x) measuring the percentage of surviving pot rim from individual vessels&#10;( ) the broken sherds&#10;&#10;&gt;&gt;4) What is sherd count?&lt;&lt;&#10;(x) recording the number of pieces identified as the same&#10;( ) recording the total weight of pieces&#10;( ) recording the total weight of pieces identified as the same&#10;( ) measuring the percentage of surviving pot rim&#10;&#10;&gt;&gt;5) Why do we compare prehistoric ceramics with regional ceramic sequences?&lt;&lt;&#10;( ) for metric attributes&#10;(x) to place the assemblage into chronological and cultural context&#10;( ) identification of vessel form, function, and design&#10;( ) identification of manufacturing techniques&#10;&#10;&gt;&gt;6) The analysis of__________ ceramics allows archaeologists to construct cultural sequences.&lt;&lt;&#10;(x) prehistoric ceremics&#10;( ) proto historic ceremics&#10;( ) early history&#10;( ) historical period&#10;&#10;&gt;&gt;7) What is main reason to Collect and Study pottery?&lt;&lt;&#10;( ) it was easily broken, does not&#10;( ) decay&#10;( ) could not be recycled&#10;( ) often the most abundant type of artifact&#10;(x) all of them&#10;&#10;&gt;&gt;8) What do you understand by experimental studies?&lt;&lt;&#10;( ) studies consist of controlled experiments used in manufacturing processes by refitting&#10;(x) studies consist of controlled experiments used to replicate prehistoric ceramic manufacturing processes&#10;( ) studies consist of uncontrolled experiments used to replicate posthistoric ceramic manufacturing processes&#10;( ) both a and b&#10;&#10;&gt;&gt;9) What make ceramic assemblage one of the most resources from archaeological site&lt;&lt;&#10;( ) The combination of abundance&#10;( ) Near indestructibility and almost unique plasticity&#10;( ) it was not easily broken, does decay&#10;(x) a and b&#10;&#10;&gt;&gt;10) A fabric series provides examples of pots made in different places&lt;&lt;&#10;(x) True&#10;( ) False">
+<p>1) How old is ceramics history in old and new world respectively?</p>
+<multiplechoiceresponse>
+  <choicegroup label="1) How old is ceramics history in old and new world respectively?" type="MultipleChoice">
+    <choice correct="true">12,000 years ago in the Old World and about 5,000 years ago in the New World</choice>
+    <choice correct="false">10,000 years ago in the Old World and about 7,000 years ago in the New World</choice>
+    <choice correct="false">8,000 years ago in the Old World and about 5,000 years ago in the New World</choice>
+    <choice correct="false">11,000 years ago in the Old World and about 4,000 years ago in the New World</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) Can we examine the question of social inequality by analyzing pottery ?</p>
+<multiplechoiceresponse>
+  <choicegroup label="2) Can we examine the question of social inequality by analyzing pottery ?" type="MultipleChoice">
+    <choice correct="true">Yes</choice>
+    <choice correct="false">No</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) What is Estimated Vessel Equivalents ?</p>
+<multiplechoiceresponse>
+  <choicegroup label="3) What is Estimated Vessel Equivalents ?" type="MultipleChoice">
+    <choice correct="false">number of pieces identified as the same</choice>
+    <choice correct="false">total weight of pieces identified as the same</choice>
+    <choice correct="true">measuring the percentage of surviving pot rim from individual vessels</choice>
+    <choice correct="false">the broken sherds</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4) What is sherd count?</p>
+<multiplechoiceresponse>
+  <choicegroup label="4) What is sherd count?" type="MultipleChoice">
+    <choice correct="true">recording the number of pieces identified as the same</choice>
+    <choice correct="false">recording the total weight of pieces</choice>
+    <choice correct="false">recording the total weight of pieces identified as the same</choice>
+    <choice correct="false">measuring the percentage of surviving pot rim</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5) Why do we compare prehistoric ceramics with regional ceramic sequences?</p>
+<multiplechoiceresponse>
+  <choicegroup label="5) Why do we compare prehistoric ceramics with regional ceramic sequences?" type="MultipleChoice">
+    <choice correct="false">for metric attributes</choice>
+    <choice correct="true">to place the assemblage into chronological and cultural context</choice>
+    <choice correct="false">identification of vessel form, function, and design</choice>
+    <choice correct="false">identification of manufacturing techniques</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6) The analysis of__________ ceramics allows archaeologists to construct cultural sequences.</p>
+<multiplechoiceresponse>
+  <choicegroup label="6) The analysis of__________ ceramics allows archaeologists to construct cultural sequences." type="MultipleChoice">
+    <choice correct="true">prehistoric ceremics</choice>
+    <choice correct="false">proto historic ceremics</choice>
+    <choice correct="false">early history</choice>
+    <choice correct="false">historical period</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7) What is main reason to Collect and Study pottery?</p>
+<multiplechoiceresponse>
+  <choicegroup label="7) What is main reason to Collect and Study pottery?" type="MultipleChoice">
+    <choice correct="false">it was easily broken, does not</choice>
+    <choice correct="false">decay</choice>
+    <choice correct="false">could not be recycled</choice>
+    <choice correct="false">often the most abundant type of artifact</choice>
+    <choice correct="true">all of them</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8) What do you understand by experimental studies?</p>
+<multiplechoiceresponse>
+  <choicegroup label="8) What do you understand by experimental studies?" type="MultipleChoice">
+    <choice correct="false">studies consist of controlled experiments used in manufacturing processes by refitting</choice>
+    <choice correct="true">studies consist of controlled experiments used to replicate prehistoric ceramic manufacturing processes</choice>
+    <choice correct="false">studies consist of uncontrolled experiments used to replicate posthistoric ceramic manufacturing processes</choice>
+    <choice correct="false">both a and b</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9) What make ceramic assemblage one of the most resources from archaeological site</p>
+<multiplechoiceresponse>
+  <choicegroup label="9) What make ceramic assemblage one of the most resources from archaeological site" type="MultipleChoice">
+    <choice correct="false">The combination of abundance</choice>
+    <choice correct="false">Near indestructibility and almost unique plasticity</choice>
+    <choice correct="false">it was not easily broken, does decay</choice>
+    <choice correct="true">a and b</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>10) A fabric series provides examples of pots made in different places</p>
+<multiplechoiceresponse>
+  <choicegroup label="10) A fabric series provides examples of pots made in different places" type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

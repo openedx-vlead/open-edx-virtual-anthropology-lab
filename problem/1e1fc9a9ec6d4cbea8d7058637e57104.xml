@@ -1,0 +1,95 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. Who discovered that all human being fall into four principal blood groups according to their compositions?&lt;&lt;&#10;( ) Mendal&#10;(x) Landsteiner&#10;( ) William Harvey&#10;( ) Spancer&#10;&#10;&gt;&gt;2. BB , BO genotype belongs to which phenotypes?&lt;&lt;&#10;( ) O&#10;( ) A&#10;(x) B&#10;( ) AB&#10;&#10;&gt;&gt;3. Genotype combinations are __ in numbers.&lt;&lt;&#10;( ) 4&#10;( ) 3&#10;( ) 5&#10;(x) 6&#10;&#10;&gt;&gt;4. The heredity of blood group is fully known?&lt;&lt;&#10;(x) True&#10;( ) False&#10;&#10;&gt;&gt;5. AA and AO genotype belongs to which phenotypes?&lt;&lt;&#10;( ) O&#10;(x) A&#10;( ) B&#10;( ) AB&#10;&#10;&gt;&gt;6. What is Erythrocytes?&lt;&lt;&#10;( ) WBC&#10;( ) blood platelets&#10;(x) RBC&#10;( ) none&#10;&#10;&gt;&gt;7. The plasma is a coagulable fluid, containing a variety of substances like fibrinogen&lt;&lt;&#10;(x) True&#10;( ) False&#10;&#10;&gt;&gt;8. What is leukocytes?&lt;&lt;&#10;(x) WBC&#10;( ) blood platelets&#10;( ) RBC&#10;( ) none&#10;&#10;&gt;&gt;9. Blood also help in removing the waste products of metabolic activities.&lt;&lt;&#10;(x) True&#10;( ) False&#10;&#10;&gt;&gt;10. The allelic genes which can occupy the same locus on a certain chromosome are not responsible for hereditary mechanism.&lt;&lt;&#10;( ) True&#10;(x) False">
+<p>1. Who discovered that all human being fall into four principal blood groups according to their compositions?</p>
+<multiplechoiceresponse>
+  <choicegroup label="1. Who discovered that all human being fall into four principal blood groups according to their compositions?" type="MultipleChoice">
+    <choice correct="false">Mendal</choice>
+    <choice correct="true">Landsteiner</choice>
+    <choice correct="false">William Harvey</choice>
+    <choice correct="false">Spancer</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. BB , BO genotype belongs to which phenotypes?</p>
+<multiplechoiceresponse>
+  <choicegroup label="2. BB , BO genotype belongs to which phenotypes?" type="MultipleChoice">
+    <choice correct="false">O</choice>
+    <choice correct="false">A</choice>
+    <choice correct="true">B</choice>
+    <choice correct="false">AB</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. Genotype combinations are __ in numbers.</p>
+<multiplechoiceresponse>
+  <choicegroup label="3. Genotype combinations are __ in numbers." type="MultipleChoice">
+    <choice correct="false">4</choice>
+    <choice correct="false">3</choice>
+    <choice correct="false">5</choice>
+    <choice correct="true">6</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. The heredity of blood group is fully known?</p>
+<multiplechoiceresponse>
+  <choicegroup label="4. The heredity of blood group is fully known?" type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. AA and AO genotype belongs to which phenotypes?</p>
+<multiplechoiceresponse>
+  <choicegroup label="5. AA and AO genotype belongs to which phenotypes?" type="MultipleChoice">
+    <choice correct="false">O</choice>
+    <choice correct="true">A</choice>
+    <choice correct="false">B</choice>
+    <choice correct="false">AB</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6. What is Erythrocytes?</p>
+<multiplechoiceresponse>
+  <choicegroup label="6. What is Erythrocytes?" type="MultipleChoice">
+    <choice correct="false">WBC</choice>
+    <choice correct="false">blood platelets</choice>
+    <choice correct="true">RBC</choice>
+    <choice correct="false">none</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>7. The plasma is a coagulable fluid, containing a variety of substances like fibrinogen</p>
+<multiplechoiceresponse>
+  <choicegroup label="7. The plasma is a coagulable fluid, containing a variety of substances like fibrinogen" type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>8. What is leukocytes?</p>
+<multiplechoiceresponse>
+  <choicegroup label="8. What is leukocytes?" type="MultipleChoice">
+    <choice correct="true">WBC</choice>
+    <choice correct="false">blood platelets</choice>
+    <choice correct="false">RBC</choice>
+    <choice correct="false">none</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>9. Blood also help in removing the waste products of metabolic activities.</p>
+<multiplechoiceresponse>
+  <choicegroup label="9. Blood also help in removing the waste products of metabolic activities." type="MultipleChoice">
+    <choice correct="true">True</choice>
+    <choice correct="false">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>10. The allelic genes which can occupy the same locus on a certain chromosome are not responsible for hereditary mechanism.</p>
+<multiplechoiceresponse>
+  <choicegroup label="10. The allelic genes which can occupy the same locus on a certain chromosome are not responsible for hereditary mechanism." type="MultipleChoice">
+    <choice correct="false">True</choice>
+    <choice correct="true">False</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
