@@ -1,0 +1,20 @@
+<p style="text-align: center;">&nbsp;<embed type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" src="/static/bld.swf" play="true" loop="loop" menu="true" height="400" width="400" /></p>
+<script>// <![CDATA[
+// ****** ALSO MODIFY THE URLS GIVEN ABOVE **************
+// ********MODIFY THIS SECTION **************************
+
+var lab_id = "HSS03"; 
+var exp_name = "Blood Group Techniques"
+var lab_name = "Virtual Anthropology Lab"
+var user_id = "%%USER_ID%%"; //get the User ID as a string  
+var exp_id = "E99510"
+
+var server_url = "http://analytics-api.vlabs.ac.in/"
+
+var xhttp = new XMLHttpRequest();
+var urlstr = server_url + user_id + "," + lab_id + "," + lab_name + "," + exp_id + "," + exp_name
+xhttp.open("GET", urlstr, true);
+xhttp.send();
+
+// *******DO NOT MODIFY THIS SECTION AGAIN ************
+// ]]></script>
