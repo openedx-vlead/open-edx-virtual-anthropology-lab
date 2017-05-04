@@ -1,103 +1,92 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1. What are the interdigital intervals ?&lt;&lt;&#10;(x) The clefts between the digits&#10;( ) The clefts between the ulnar&#10;( ) The clefts between the distal&#10;( ) None of above&#10;&#10;&gt;&gt;2. What is hypothenar eminence?&lt;&lt;&#10;( ) Lying on the proximal direction there is an elongated eminence&#10;(x) Lying on the ulnar direction there is an elongated eminence&#10;( ) Lying on the direction there is an elongated eminence&#10;( ) It is fifth triradius&#10;&#10;&gt;&gt;3. How many astronomical divisions are there in a palm?&lt;&lt;&#10;( ) 9&#10;( ) 5&#10;(x) 4&#10;( ) 2&#10;&#10;&gt;&gt;4. How many elevations are there in a palmar surface?&lt;&lt;&#10;( ) 8&#10;( ) 6&#10;(x) 4&#10;( ) 2&#10;&#10;&gt;&gt;5. How many astronomical divisions are there in a palm?&lt;&lt;&#10;( ) 9&#10;( ) 5&#10;(x) 4&#10;( ) 2&#10;&#10;&gt;&gt;6. How many elevations are there in a palmar surface?&lt;&lt;&#10;( ) 8&#10;(x) 6&#10;( ) 4&#10;( ) 2&#10;&#10;&gt;&gt;7. The triradius designated by the letter ‘t’ is&lt;&lt;&#10;( ) Arial triradius&#10;(x) Axial Triradius&#10;( ) Proximal Triradius&#10;( ) Digital Triradius&#10;&#10;&gt;&gt;8. The periphery of the palm is divided into how many intervals and points&lt;&lt;&#10;( ) 20&#10;( ) 30&#10;(x) 14&#10;( ) 15&#10;&#10;&gt;&gt;9. The main line formula is&lt;&lt;&#10;(x) DCBA&#10;( ) ABCD&#10;( ) BCDA&#10;( ) CDAB&#10;&#10;&gt;&gt;10. There are how many main lines in a palm&lt;&lt;&#10;(x) 6&#10;( ) 3&#10;( ) 2&#10;( ) 1">
-<p>1. What are the interdigital intervals ?</p>
-<multiplechoiceresponse>
-  <choicegroup label="1. What are the interdigital intervals ?" type="MultipleChoice">
-    <choice correct="true">The clefts between the digits</choice>
-    <choice correct="false">The clefts between the ulnar</choice>
-    <choice correct="false">The clefts between the distal</choice>
-    <choice correct="false">None of above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. What is hypothenar eminence?</p>
-<multiplechoiceresponse>
-  <choicegroup label="2. What is hypothenar eminence?" type="MultipleChoice">
-    <choice correct="false">Lying on the proximal direction there is an elongated eminence</choice>
-    <choice correct="true">Lying on the ulnar direction there is an elongated eminence</choice>
-    <choice correct="false">Lying on the direction there is an elongated eminence</choice>
-    <choice correct="false">It is fifth triradius</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. How many astronomical divisions are there in a palm?</p>
-<multiplechoiceresponse>
-  <choicegroup label="3. How many astronomical divisions are there in a palm?" type="MultipleChoice">
-    <choice correct="false">9</choice>
-    <choice correct="false">5</choice>
-    <choice correct="true">4</choice>
-    <choice correct="false">2</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. How many elevations are there in a palmar surface?</p>
-<multiplechoiceresponse>
-  <choicegroup label="4. How many elevations are there in a palmar surface?" type="MultipleChoice">
-    <choice correct="false">8</choice>
-    <choice correct="false">6</choice>
-    <choice correct="true">4</choice>
-    <choice correct="false">2</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. How many astronomical divisions are there in a palm?</p>
-<multiplechoiceresponse>
-  <choicegroup label="5. How many astronomical divisions are there in a palm?" type="MultipleChoice">
-    <choice correct="false">9</choice>
-    <choice correct="false">5</choice>
-    <choice correct="true">4</choice>
-    <choice correct="false">2</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>6. How many elevations are there in a palmar surface?</p>
-<multiplechoiceresponse>
-  <choicegroup label="6. How many elevations are there in a palmar surface?" type="MultipleChoice">
-    <choice correct="false">8</choice>
-    <choice correct="true">6</choice>
-    <choice correct="false">4</choice>
-    <choice correct="false">2</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>7. The triradius designated by the letter ‘t’ is</p>
-<multiplechoiceresponse>
-  <choicegroup label="7. The triradius designated by the letter ‘t’ is" type="MultipleChoice">
-    <choice correct="false">Arial triradius</choice>
-    <choice correct="true">Axial Triradius</choice>
-    <choice correct="false">Proximal Triradius</choice>
-    <choice correct="false">Digital Triradius</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>8. The periphery of the palm is divided into how many intervals and points</p>
-<multiplechoiceresponse>
-  <choicegroup label="8. The periphery of the palm is divided into how many intervals and points" type="MultipleChoice">
-    <choice correct="false">20</choice>
-    <choice correct="false">30</choice>
-    <choice correct="true">14</choice>
-    <choice correct="false">15</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>9. The main line formula is</p>
-<multiplechoiceresponse>
-  <choicegroup label="9. The main line formula is" type="MultipleChoice">
-    <choice correct="true">DCBA</choice>
-    <choice correct="false">ABCD</choice>
-    <choice correct="false">BCDA</choice>
-    <choice correct="false">CDAB</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>10. There are how many main lines in a palm</p>
-<multiplechoiceresponse>
-  <choicegroup label="10. There are how many main lines in a palm" type="MultipleChoice">
-    <choice correct="true">6</choice>
-    <choice correct="false">3</choice>
-    <choice correct="false">2</choice>
-    <choice correct="false">1</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. What are the interdigital intervals ?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. What are the interdigital intervals ?" type="MultipleChoice">
+      <choice correct="true">The clefts between the digits</choice>
+      <choice correct="false">The clefts between the ulnar</choice>
+      <choice correct="false">The clefts between the distal</choice>
+      <choice correct="false">None of above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. What is hypothenar eminence?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2. What is hypothenar eminence?" type="MultipleChoice">
+      <choice correct="false">Lying on the proximal direction there is an elongated eminence</choice>
+      <choice correct="true">Lying on the ulnar direction there is an elongated eminence</choice>
+      <choice correct="false">Lying on the direction there is an elongated eminence</choice>
+      <choice correct="false">It is fifth triradius</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. How many astronomical divisions are there in a palm?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3. How many astronomical divisions are there in a palm?" type="MultipleChoice">
+      <choice correct="false">9</choice>
+      <choice correct="false">5</choice>
+      <choice correct="true">4</choice>
+      <choice correct="false">2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. How many elevations are there in a palmar surface?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4. How many elevations are there in a palmar surface?" type="MultipleChoice">
+      <choice correct="false">8</choice>
+      <choice correct="false">6</choice>
+      <choice correct="true">4</choice>
+      <choice correct="false">2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. How many astronomical divisions are there in a palm?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5. How many astronomical divisions are there in a palm?" type="MultipleChoice">
+      <choice correct="false">9</choice>
+      <choice correct="false">5</choice>
+      <choice correct="true">4</choice>
+      <choice correct="false">2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>6. How many elevations are there in a palmar surface?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="6. How many elevations are there in a palmar surface?" type="MultipleChoice">
+      <choice correct="false">8</choice>
+      <choice correct="true">6</choice>
+      <choice correct="false">4</choice>
+      <choice correct="false">2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>7. The triradius designated by the letter ‘t’ is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="7. The triradius designated by the letter ‘t’ is" type="MultipleChoice">
+      <choice correct="false">Arial triradius</choice>
+      <choice correct="true">Axial Triradius</choice>
+      <choice correct="false">Proximal Triradius</choice>
+      <choice correct="false">Digital Triradius</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>8. The periphery of the palm is divided into how many intervals and points</p>
+  <multiplechoiceresponse>
+    <choicegroup label="8. The periphery of the palm is divided into how many intervals and points" type="MultipleChoice">
+      <choice correct="false">20</choice>
+      <choice correct="false">30</choice>
+      <choice correct="true">14</choice>
+      <choice correct="false">15</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>9. The main line formula is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="9. The main line formula is" type="MultipleChoice">
+      <choice correct="true">DCBA</choice>
+      <choice correct="false">ABCD</choice>
+      <choice correct="false">BCDA</choice>
+      <choice correct="false">CDAB</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>10. There are how many main lines in a palm</p>
+  <multiplechoiceresponse>
+    <choicegroup label="10. There are how many main lines in a palm" type="MultipleChoice">
+      <choice correct="true">6</choice>
+      <choice correct="false">3</choice>
+      <choice correct="false">2</choice>
+      <choice correct="false">1</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
