@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "IIT_Guwahati-Virtual_Anthropology_Lab.jpg", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "IIT Guwahati-Virtual Anthropology Lab.jpg", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@IIT_Guwahati-Virtual_Anthropology_Lab.jpg", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@IIT_Guwahati-Virtual_Anthropology_Lab.jpg", 
         "import_path": "IIT Guwahati-Virtual Anthropology Lab.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIT-Guwahati", 
-            "HSS03", 
+            "Virtual-Labs", 
+            "hmt03", 
             "thumbnail", 
             "IIT_Guwahati-Virtual_Anthropology_Lab.jpg", 
             null
@@ -27,15 +27,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "bld.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "bld.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@bld.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@bld.swf", 
         "import_path": "bld.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -44,15 +44,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "finalf.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "finalf.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@finalf.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@finalf.swf", 
         "import_path": "finalf.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -61,15 +61,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "finalpottery1.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "finalpottery1.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@finalpottery1.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@finalpottery1.swf", 
         "import_path": "finalpottery1.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -78,15 +78,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "finalpottery3.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "finalpottery3.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@finalpottery3.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@finalpottery3.swf", 
         "import_path": "finalpottery3.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -95,15 +95,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "finalskullpuzzl.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "finalskullpuzzl.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@finalskullpuzzl.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@finalskullpuzzl.swf", 
         "import_path": "finalskullpuzzl.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -112,15 +112,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "finalstone1.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "finalstone1.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@finalstone1.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@finalstone1.swf", 
         "import_path": "finalstone1.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -129,15 +129,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "finalstone2.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "finalstone2.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@finalstone2.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@finalstone2.swf", 
         "import_path": "finalstone2.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -146,15 +146,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "finalstone3.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "finalstone3.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@finalstone3.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@finalstone3.swf", 
         "import_path": "finalstone3.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -163,15 +163,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "finalstone4.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "finalstone4.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@finalstone4.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@finalstone4.swf", 
         "import_path": "finalstone4.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -180,15 +180,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "fingerprint.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "fingerprint.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@fingerprint.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@fingerprint.swf", 
         "import_path": "fingerprint.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -197,15 +197,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "labelling.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "labelling.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@labelling.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@labelling.swf", 
         "import_path": "labelling.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -214,15 +214,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "mainlineformulafinal.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "mainlineformulafinal.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@mainlineformulafinal.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@mainlineformulafinal.swf", 
         "import_path": "mainlineformulafinal.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -231,15 +231,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "new1.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "new1.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@new1.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@new1.swf", 
         "import_path": "new1.swf", 
         "locked": false, 
         "thumbnail_location": null
@@ -248,15 +248,15 @@
         "contentType": "application/x-shockwave-flash", 
         "content_son": {
             "category": "asset", 
-            "course": "HSS03", 
+            "course": "hmt03", 
             "name": "punnett.swf", 
-            "org": "IIT-Guwahati", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "punnett.swf", 
-        "filename": "asset-v1:IIT-Guwahati+HSS03+Anytime+type@asset+block@punnett.swf", 
+        "filename": "asset-v1:Virtual-Labs+hmt03+Anytime+type@asset+block@punnett.swf", 
         "import_path": "punnett.swf", 
         "locked": false, 
         "thumbnail_location": null
